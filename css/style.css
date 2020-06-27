@@ -1,0 +1,156 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+/* header-part start */
+
+.header-part {
+    background: #FCDB00;
+    padding: 20px 0px;
+}
+
+.manu ul li a {
+    font-family: 'PT Sans', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    color: #010101 !important;
+}
+
+.manu ul li {
+    padding: 0px 30px;
+}
+
+
+/* header-part end */
+
+
+/* slider/banner part start */
+
+.slider-part {
+    padding: 50px 0px;
+    background: #FCDB00;
+}
+
+.inspire {
+    padding: 70px 20px;
+}
+
+.inspire h1 {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    color: #010101;
+}
+
+.inspire h3 {
+    color: #313841;
+    font-size: 22px;
+    font-family: 'PT Sans', regular;
+    line-height: 25px;
+    padding: 25px 0px;
+}
+
+.inspire p {
+    color: #555555;
+    font-size: 16px;
+    line-height: 25px;
+}
+
+.inspire ul li i {
+    font-size: 45px;
+    color: #010101;
+    padding: 45px 15px;
+}
+
+.slider-img img {
+    padding: 0px 15px;
+    width: 85%;
+}
+
+.carousel-indicators li {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+
+.carousel-indicators li:hover {
+    background-color: #010101;
+}
+
+.carousel-indicators>.active {
+    background-color: #010101;
+}
+
+.carousel-indicators {
+    bottom: -33px;
+}
+
+
+/* slider/banner part end */
+
+
+/*  features & service part start  */
+
+.features {
+    padding: 120px 0px;
+}
+
+.features-titel h2 {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    color: #010101;
+}
+
+.features-titel p {
+    color: #313841;
+    padding: 0px 32px;
+    font-size: 22px;
+}
+
+
+/* service part start */
+
+.our-service {
+    padding-top: 100px;
+}
+
+
+/* icon style */
+
+.icon i {
+    font-size: 45px;
+}
+
+
+/* icon-content style */
+
+.icon-content h1 {
+    font-size: 22px;
+    font-family: 'PT Sans', regular;
+    color: #010101;
+    padding: 0px 28px;
+    padding-bottom: 20px;
+}
+
+.icon-content p {
+    padding: 0px 28px;
+    color: #898989;
+    font-size: 16px;
+    font-family: 'PT Sans', regular;
+}
+
+
+/* service part end */
+
+
+/*  features & service part end  */
+
+
+/* font-family: 'PT Sans', sans-serif; */
