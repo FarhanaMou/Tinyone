@@ -153,4 +153,92 @@ html {
 /*  features & service part end  */
 
 
+/* contect part start */
+
+.contect {
+    padding: 100px 0px;
+    background: #010101;
+}
+
+.contect-titel h1 {
+    color: #fcdb00;
+    font-size: 32px;
+    font-weight: 700;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.contect-titel p {
+    color: #898989;
+    font-size: 20px;
+    padding: 0px 44px;
+    font-family: 'PT Sans', sans-serif;
+}
+
+
+/* Its for form part */
+
+.coustom-size {
+    padding: 45px 56px;
+}
+
+.my-input input {
+    padding: 25px 28px;
+    color: #898989;
+}
+
+.my-button button {
+    text-transform: uppercase;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    padding: 16px 55px;
+    color: #010101;
+    background-color: #fcdb00;
+}
+
+
+/* social icon style */
+
+.social-media ul {
+    padding-top: 80px;
+}
+
+.social-media ul li {
+    background: #fcdb00;
+    width: 50px;
+    border-radius: 5px;
+}
+
+.social-media ul li i {
+    font-size: 35px;
+    color: #010101;
+}
+
+.list-inline-item:not(:last-child) {
+    margin-right: 1.5rem;
+}
+
+
+/* contect part end */
+
+
+/* footer-area start */
+
+.footer-area {
+    padding: 0px 0px 170px 150px;
+    background: #010101;
+}
+
+.footer-area address {
+    color: #ffffff;
+}
+
+.footer-area ul li a {
+    color: #ffffff;
+}
+
+
+/* footer-area end */
+
+
 /* font-family: 'PT Sans', sans-serif; */

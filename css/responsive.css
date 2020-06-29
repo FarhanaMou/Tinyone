@@ -47,6 +47,9 @@
      .features {
          padding: 35px 0px;
      }
+     .service {
+         text-align: center;
+     }
      .features-titel h2 {
          font-size: 23px;
      }
@@ -70,6 +73,43 @@
          font-size: 12px;
      }
      /*  features & service part end  */
+     /* contect part start */
+     .contect {
+         padding: 28px 0px;
+     }
+     .contect-titel h1 {
+         font-size: 23px;
+     }
+     .contect-titel p {
+         font-size: 14px;
+         padding: 0px 48px;
+     }
+     .coustom-size {
+         padding: 0px 100px;
+     }
+     .my-input input {
+         padding: 18px 25px;
+     }
+     .my-button button {
+         padding: 8px 20px;
+         margin-left: 120px;
+     }
+     /* Its for social icon */
+     .social-media ul li i {
+         font-size: 28px;
+     }
+     .social-media ul {
+         padding-top: 30px;
+     }
+     /* contect part end */
+     /* footer area start */
+     .footer-area address {
+         font-size: 12px;
+     }
+     .footer-area ul li a {
+         font-size: 12px;
+     }
+     /* footer area end */
  }
  /* Small devices (landscape phones, 576px and up) */
  
@@ -112,6 +152,9 @@
      .features {
          padding: 45px 0px;
      }
+     .service {
+         text-align: center;
+     }
      .features-titel h2 {
          font-size: 25px;
      }
@@ -133,6 +176,35 @@
          font-size: 14px;
      }
      /*  features & service part end  */
+     /* contect part start */
+     .contect {
+         padding: 50px 0px;
+     }
+     .contect-titel h1 {
+         font-size: 25px;
+     }
+     .contect-titel p {
+         font-size: 18px;
+     }
+     .coustom-size {
+         padding: 20px 60px;
+     }
+     .my-button button {
+         margin-left: 120px;
+     }
+     /* social icon style */
+     .social-media ul {
+         padding-top: 25px;
+     }
+     /* contect part end */
+     /* footer area start */
+     .footer-area address {
+         font-size: 12px;
+     }
+     .footer-area ul li a {
+         font-size: 12px;
+     }
+     /* footer area end */
  }
  /* Medium devices (tablets, 768px and up) */
  
@@ -167,6 +239,16 @@
          bottom: -55px;
      }
      /* slider/banner part end */
+     /*  features & service part start  */
+     .icon-content h1 {
+         font-size: 18px;
+     }
+     /*  features & service part end  */
+     /* contect part start */
+     .my-button button {
+         padding: 16px 36px;
+     }
+     /* contect part end */
  }
  /* Large devices (desktops, 992px and up) */
  
